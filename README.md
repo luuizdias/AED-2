@@ -30,3 +30,8 @@ Atentar-se para a refatoração do código: tirar o *package* já presente.
 ## Autor
 
 * **Luiz Henrique Moreira Dias** - [GitHub: luuizdias](https://github.com/luuizdias)
+
+## Conteúdo Relacionado
+
+* **Pedro Gaiarsa** - *Sorting Algorithms* - [GitHub](https://github.com/tekila/SortingAlgorithms)
+* **Kevin Scaccia** - *Algoritmos e estrutura de dados* - [GitHub](https://github.com/kevinscaccia/Algoritmos-e-Estruturas-de-Dados/tree/master/Exercicios%20Resolvidos/Java)
