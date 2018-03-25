@@ -16,14 +16,14 @@ Atentar-se para a refatoração do código: tirar o *package* já presente.
 
 ##  Pastas - Algoritmo - Acerto
 
-* **Tarefa 1**
-    * *BubbleSort* - 100%
-    * *InsertionSort* - 100% 
-    * *SelectionSort* - 100%
-* **Tarefa 2** - *HeapSort* - 80%
-* **Tarefa 3** - *MergeSort* - 100%
-* **Tarefa 4** - *QuickSort* - 100%
-* **Tarefa 5** 
+* **Tarefa 01**
+    * AlunoBubble.java - *BubbleSort* - 100%
+    * AlunoInsertion.java - *InsertionSort* - 100% 
+    * AlunoSelection.java - *SelectionSort* - 100%
+* **Tarefa 02** - Tarefa02.java - *HeapSort* - 80%
+* **Tarefa 03** - Tarefa03.java - *MergeSort* - 100%
+* **Tarefa 04** - Tarefa04.java - *QuickSort* - 100%
+* **Tarefa 05** 
     * *CountingSort* - XXX%
     * *RadixSort* - XXX%
 
