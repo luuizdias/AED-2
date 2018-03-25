@@ -25,7 +25,7 @@ Atentar-se para a refatoração do código: tirar o *package* já presente.
 * **Tarefa 04** - Tarefa04.java - *QuickSort* - 100%
 * **Tarefa 05** 
     * Tarefa05_1.java - *CountingSort* - 100%
-    * Tarefa05_2.java - *RadixSort* - XXX%
+    * Tarefa05_2.java - *RadixSort* - 100%
 
 ## Trabalhos
 
