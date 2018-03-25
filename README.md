@@ -14,7 +14,7 @@ Para executar criar projeto *console application* em um IDE java e colocar o có
 
 Atentar-se para a refatoração do código: tirar o *package* já presente.
 
-##  Pastas - Algoritmo - Acerto
+##  Tarefas
 
 * **Tarefa 01**
     * AlunoBubble.java - *BubbleSort* - 100%
@@ -24,8 +24,12 @@ Atentar-se para a refatoração do código: tirar o *package* já presente.
 * **Tarefa 03** - Tarefa03.java - *MergeSort* - 100%
 * **Tarefa 04** - Tarefa04.java - *QuickSort* - 100%
 * **Tarefa 05** 
-    * *CountingSort* - XXX%
-    * *RadixSort* - XXX%
+    * Tarefa05_1.java - *CountingSort* - 100%
+    * Tarefa05_2.java - *RadixSort* - XXX%
+
+## Trabalhos
+
+* **Trabalho 01** - 
 
 ## Autor
 
@@ -33,5 +37,5 @@ Atentar-se para a refatoração do código: tirar o *package* já presente.
 
 ## Conteúdo Relacionado
 
-* **Pedro Gaiarsa** - *Sorting Algorithms* - [GitHub](https://github.com/tekila/SortingAlgorithms)
-* **Kevin Scaccia** - *Algoritmos e estrutura de dados* - [GitHub](https://github.com/kevinscaccia/Algoritmos-e-Estruturas-de-Dados/tree/master/Exercicios%20Resolvidos/Java)
+* **Pedro Gaiarsa** - *Sorting Algorithms* - [GitHub: tekila](https://github.com/tekila/SortingAlgorithms)
+* **Kevin Scaccia** - *Algoritmos e estrutura de dados* - [GitHub: kevinscaccia](https://github.com/kevinscaccia/Algoritmos-e-Estruturas-de-Dados/tree/master/Exercicios%20Resolvidos/Java)
